@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-bool kiemtraso(char a){
+bool kiemtraso(char &a){
 	for(char i = '0'; i<='9'; i++){
 		if(a==i)
 		return true;
@@ -34,10 +34,13 @@ void chuanhoaso(char *a, int &l){
 		l--;
 }
 
-bool kiemtrachuoichu(char a){
+bool kiemtrachuoichu(char &a){
 	for(char i='a'; i<='z'; i++){
-		if(a==i)
-		return true;
+		if(a==i){
+			a -= 32;// chu thuong in thanh chu in hoa
+			return true;
+		}
+		
 	}
 	for(char i='A'; i<='Z'; i++){
 		if(a==i)
@@ -65,9 +68,6 @@ void chuanhoachuoi(char *a, int &l){
 			l -= 1;
 			i--;
 		}
-		//in hoa cac chu cai
-		if(a[i]>='a'&&a[i]<='z')
-			a[i] -= 32;
 		//xoa khoang cach du o giua chuoi chu
 		if(a[i]==' '&& a[i+1]==' '){
 			for(int k = i+1; k<l; k++){
