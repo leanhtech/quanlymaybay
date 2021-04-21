@@ -43,7 +43,7 @@ bool kiemtrachuoichu(char a){
 		if(a==i)
 		return true;
 	}
-	if(a==' ') return true;
+	if(a==' ' || a==39) return true;
 	return false;
 }
 
