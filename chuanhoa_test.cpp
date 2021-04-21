@@ -34,6 +34,19 @@ void chuanhoaso(char *a, int &l){
 		l--;
 }
 
+bool kiemtrachuoichu(char a){
+	for(char i='a'; i<='z'; i++){
+		if(a==i)
+		return true;
+	}
+	for(char i='A'; i<='Z'; i++){
+		if(a==i)
+		return true;
+	}
+	if(a==' ') return true;
+	return false;
+}
+
 void chuanhoachuoi(char *a, int &l){
 	int i=0;
 	//xoa dau cach dau chuoi chu
@@ -44,6 +57,13 @@ void chuanhoachuoi(char *a, int &l){
 		l -= 1;
 	}
 	for(i=0; i<l;i++){
+		if(kiemtrachuoichu(a[i])==false){
+			for(int k = i; k<l; k++){
+				a[k] = a[k+1];
+			}
+			l -= 1;
+			i--;
+		}
 		//in hoa cac chu cai
 		if(a[i]>='a'&&a[i]<='z')
 			a[i] -= 32;
@@ -75,6 +95,6 @@ int main(){
 	cout<<"Nhap chuoi :";
 	fgets(a,50,stdin);
 	int len = strlen(a)-1;//do nhap tu ban phi tu nhan them 1 ky tu phia sau
-	chuanhoaso(a,len);
-	cout<<a<<"ket chuoi";
+	chuanhoachuoi(a,len);
+	cout<<a;
 }
