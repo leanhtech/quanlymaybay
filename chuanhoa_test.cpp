@@ -57,6 +57,7 @@ void chuanhoachuoi(char *a, int &l){
 		l -= 1;
 	}
 	for(i=0; i<l;i++){
+		//kiem tra chuoi khong phai thi khong them vao
 		if(kiemtrachuoichu(a[i])==false){
 			for(int k = i; k<l; k++){
 				a[k] = a[k+1];
@@ -67,14 +68,6 @@ void chuanhoachuoi(char *a, int &l){
 		//in hoa cac chu cai
 		if(a[i]>='a'&&a[i]<='z')
 			a[i] -= 32;
-		//loc cac so ra khoi chuoi chu
-		if(a[i]>='0'&&a[i]<='9'){
-			for(int k = i; k<l; k++){
-				a[k] = a[k+1];
-			}
-			l -= 1;
-			i--;
-		}
 		//xoa khoang cach du o giua chuoi chu
 		if(a[i]==' '&& a[i+1]==' '){
 			for(int k = i+1; k<l; k++){
