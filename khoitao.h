@@ -5,6 +5,7 @@ struct maybay{
 	char loaimaybay[41];
 	int socho;
 };
+typedef struct maybay MB;
 
 struct dsve{
 	int so_ve;
@@ -13,24 +14,26 @@ struct dsve{
 	string ho;
 	bool nu; //dung la nu, sai la nam
 };
+typedef struct dsve DSV;
 
 struct chuyenbay{
 	char macb[16];
-	long day, month, year;
+	long minmute,hour,day, month, year;
 	string sanbayden;
 	long trangthai[4]={0,1,2,3};
 	char sohieumb[16];
 	int socho;
 	dsve *ve = new dsve[socho+1];
 };
+typedef struct chuyenbay CB;
 
 struct nodeCB{
-	chuyenbay cb;
+	CB info;
 	struct nodeCB* next;
 };
-typedef nodeCB* PTR;
+typedef struct nodeCB* PTR;
 
 void newmb{
 	PTR First = NULL;
-	maybay *MayBay = new maybay[301];
+	CB *MayBay = new CB[301];
 }
