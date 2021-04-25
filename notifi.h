@@ -28,6 +28,11 @@ string notifi_cb(ll luachon){
 
 string notifi_kh(ll luachon){
 	switch(luachon){
-		case 1: return "Mot khach hang khong the dat hai ve may bay cung luc.";
+		case 1: return "Mot khach hang khong the dat hai ve tren cung chuyen bay.";
+		case 2: return "Khach da ton tai.";
+		case 3: return "Cap nhat thong tin khach hang dat ve.";
+		case 4: return "Vui long nhap hoan tat CMND.";
+		case 5: return "Huy ve thanh cong.";
+	}
 }
 
