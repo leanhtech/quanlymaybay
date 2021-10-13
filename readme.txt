@@ -1,0 +1,3 @@
+- Trong chương trình tụi mình có dùng Dev-C++ thư viện Graphics bạn nào chưa cài thì lên Google tìm cách cài thư viện Graphics nhé
+- Đồ án Quản Lý Máy Bay này tụi mình chạy deadline trong 2 tuần do nhiều yếu tố khác quan lẫn chủ quan nên code theo bản năng không tham khảo sách vở
+- Chỉ nên tham khảo phần giao diện phần giải thuật do deadline dí với trình độ lúc đó chưa tốt nên code hơi phèn (chăm đọc giáo trình thầy cho và áp dụng thì điểm sẽ cao hơn)
