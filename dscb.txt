@@ -1,19 +1,24 @@
-12 
-                             2                            20                           HND                         HANOI                          VN03                             1                             9                             9                             9                             9                          2021
+13 
+                             2                           150                          HAHA                         HANOI                          VN99                             1                             9                            30                            17                            11                          2021
+                     999922222                            26                                              true
+                     939393939                            57                                              true
+
+
+                             2                            20                           HND                         HANOI                          VN03                             3                             9                             9                             9                             9                          2021
                      111111111                            10                                              true
                      999999999                            11                                              true
 
 
-                             0                           120                          VNCT                        CANTHO                         VN007                             1                             4                             0                            20                             8                          2021
+                             0                           120                          VNCT                        CANTHO                         VN007                             3                             4                             0                            20                             8                          2021
 
 
-                             0                            50                      VNDANANG                        DANANG                         VN005                             1                             4                            30                             5                             9                          2021
+                             0                            50                      VNDANANG                        DANANG                         VN005                             3                             4                            30                             5                             9                          2021
 
 
-                             0                           200                       HANOI01                         HANOI                         VN009                             1                             2                            30                             8                             9                          2021
+                             0                           200                       HANOI01                         HANOI                         VN009                             3                             2                            30                             8                             9                          2021
 
 
-                            20                            20                         VNVNV                            BD                         VN004                             2                            12                            10                            10                             9                          2021
+                            20                            20                         VNVNV                            BD                         VN004                             3                            12                            10                            10                             9                          2021
                      111111111                             0                                              true
                      222222222                             1                                              true
                      999999999                             2                                              true
@@ -36,28 +41,28 @@
                      283882392                            19                                              true
 
 
-                             0                           200                         CH113                          KANG                         VN006                             1                            10                            10                            20                             8                          2021
+                             0                           200                         CH113                          KANG                         VN006                             3                            10                            10                            20                             8                          2021
 
 
-                             0                            20                         VNNNV                            TN                         VN008                             1                             9                             9                             9                             9                          2021
+                             0                            20                         VNNNV                            TN                         VN008                             3                             9                             9                             9                             9                          2021
 
 
-                             0                            90                           VNV                            PC                         VN003                             1                            10                            10                             9                             9                          2021
+                             0                            90                           VNV                            PC                         VN003                             3                            10                            10                             9                             9                          2021
 
 
-                             0                            99                         NH370                            DN                         VN001                             0                            20                            30                             8                             8                          2021
+                             0                            99                         NH370                            DN                         VN001                             3                            20                            30                             8                             8                          2021
 
 
-                             1                           100                          SCGC                            HN                         VN012                             1                            11                            30                            12                             8                          2021
+                             1                           100                          SCGC                            HN                         VN012                             3                            11                            30                            12                             8                          2021
                      123456789                            87                                              true
 
 
-                             2                           200                       VNHCM01                         TPHCM                         VN006                             0                            20                            30                            20                             8                          2021
+                             2                           200                       VNHCM01                         TPHCM                         VN006                             3                            20                            30                            20                             8                          2021
                      987654321                            87                                              true
                      123456789                           170                                             false
 
 
-                            11                            90                         VNHCM                         TPHCM                         VN003                             0                             2                             0                             2                             9                          2021
+                            11                            90                         VNHCM                         TPHCM                         VN003                             3                             2                             0                             2                             9                          2021
                      123456789                            89                                              true
                      111111111                             0                                              true
                      999999999                            32                                              true
