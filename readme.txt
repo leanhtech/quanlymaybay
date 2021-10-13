@@ -6,7 +6,7 @@ Sinh Viên Thực Hiện :
 - Văn Dương Thanh Toán (N19DCCN172) : Sửa lỗi, cải thiện chức năng.
 Video demo sản phẩm : https://youtu.be/J4mfAZkscx0
 Ảnh Demo:
-![atl](https://i.imgur.com/tkC212A.png)
+![atl](https://i.imgur.com/tkC212A.png?raw=true "Title")
 
 #Chú Ý:
 - Trong chương trình tụi mình có dùng Dev-C++ thư viện Graphics bạn nào chưa cài thì lên Google tìm cách cài thư viện Graphics nhé.
