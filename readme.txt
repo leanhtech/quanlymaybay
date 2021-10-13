@@ -6,7 +6,8 @@ Sinh Viên Thực Hiện :
 - Văn Dương Thanh Toán (N19DCCN172) : Sửa lỗi, cải thiện chức năng.
 Video demo sản phẩm : https://youtu.be/J4mfAZkscx0
 Ảnh Demo:
-![Screenshot](https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.6435-9/148934657_2769650140017970_6907668474260733126_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Jo4E3Kvc13UAX_ADnh9&_nc_ht=scontent.fsgn2-5.fna&oh=96ea8a10843bcd203d66a35f49346d3c&oe=618C8364)
+![stack Overflow](http://lmsotfy.com/so.png)
+
 
 #Chú Ý:
 - Trong chương trình tụi mình có dùng Dev-C++ thư viện Graphics bạn nào chưa cài thì lên Google tìm cách cài thư viện Graphics nhé.
