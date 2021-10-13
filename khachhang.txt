@@ -1,10 +1,12 @@
-35 
+40 
                      123456789                            LE                           ANH                                               Nam
                      111111111                            LE                    LONG_HOANG                                               Nam
                      101010101                            LE                     HOANG_TON                                               Nam
                      012345687                           KKK                         VAN_A                                               Nam
+                     090909090                           HAI                          LONG                                               Nam
                      109928374                            LE                          MANH                                               Nam
                      121212121                         KHANG                     LONG_QUAN                                               Nam
+                     111111119                           LAM                          HUNG                                               Nam
                      987654321                        NGUYEN                     HONG_QUAN                                               Nam
                      218228323                            HE                      KHA_LONG                                               Nam
                      373239333                           HOA                    KHANG_HONG                                                Nu
@@ -12,6 +14,7 @@
                      333333333                         KHANH                    LONG_HOANG                                               Nam
                      288239204                           HUA                    VAN_KHUONG                                               Nam
                      283882392                        KHUONG                         TRONG                                               Nam
+                     222222229                            LE                          LONG                                               Nam
                      289347387                         KHUNG                         HUYNH                                                Nu
                      327483874                         HUYNH                       HOA_LAN                                                Nu
                      444444444                          LONG                   KHANG_HOANG                                               Nam
@@ -19,6 +22,8 @@
                      388239393                           LAM                      THI_HONG                                                Nu
                      388239333                         HUYNH                           THI                                                Nu
                      383832023                        NGUYEN                     KHANG_KHA                                               Nam
+                     388383838                        NGUYEN                          HONG                                                Nu
+                     388332423                         HOANG                           ANH                                               Nam
                      555555555                           BUI                    THANH_HUNG                                               Nam
                      666666666                          BACH                      KHA_BACH                                               Nam
                      888888888                        NGUYEN                    QUANG_LONG                                               Nam
