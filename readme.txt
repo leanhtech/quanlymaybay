@@ -4,6 +4,7 @@ PTITHCM_2ndYear_2ndSemester
 Sinh Viên Thực Hiện :
 - Lê Hoàng Anh (N19DCCN005) : Thiết kết giao diện, tạo chức năng, code phần chính.
 - Văn Dương Thanh Toán (N19DCCN172) : Sửa lỗi, cải thiện chức năng.
+Video demo sản phẩm : https://youtu.be/J4mfAZkscx0
 
 #Chú Ý:
 - Trong chương trình tụi mình có dùng Dev-C++ thư viện Graphics bạn nào chưa cài thì lên Google tìm cách cài thư viện Graphics nhé.
