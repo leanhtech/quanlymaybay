@@ -37,8 +37,7 @@ Chương trình có các chức năng sau:
 	e/ In danh sách các hành khách thuộc 1 chuyến bay dựa vào mã chuyến bay. Kết xuất:
 DANH SÁCH HÀNH KHÁCH THUỘC CHUYẾN BAY ######
 Ngày giờ khởi hành: dd/mm/yyyy hh:mm.  Nơi đến : xxxxxxxxxxx
-
-		STT	SỐ VÉ		SỐ CMND	HỌ TÊN	PHÁI
+						STT	SỐ VÉ		SỐ CMND	HỌ TÊN	PHÁI
 	f/ In danh sách các chuyến bay khởi hành trong  ngày dd/mm/yyyy đến nơi XXXX mà còn vé (cho biết cụ thể số lượng các vé còn trống và giờ khởi hành)
 	g/ In danh sách các vé còn trống của 1 chuyến bay có mã chuyến bay là X. 
 	h/ Thống kê số lượt thực hiện chuyến bay của từng máy bay theo thứ tự  số lượt thực hiện giảm dần. Kết xuất:
