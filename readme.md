@@ -1,12 +1,13 @@
 PTITHCM_2ndYear_2ndSemester
 Đồ Án CTDL&GT
+
 Đề Tài : Quản lý các chuyến bay nội địa thuộc một hãng hàng không.
 Sinh Viên Thực Hiện :
 - Lê Hoàng Anh (N19DCCN005) : Thiết kết giao diện, tạo chức năng, code phần chính.
 - Văn Dương Thanh Toán (N19DCCN172) : Sửa lỗi, cải thiện chức năng.
 Video demo sản phẩm : https://youtu.be/J4mfAZkscx0
 Ảnh Demo:
-![stack Overflow](http://lmsotfy.com/so.png)
+![img mb](mb.png)
 
 
 #Chú Ý:
