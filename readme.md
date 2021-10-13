@@ -9,8 +9,6 @@ Sinh Viên Thực Hiện :
 
 Video demo sản phẩm : https://youtu.be/J4mfAZkscx0
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J4mfAZkscx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Ảnh Demo:
 ![img mb](mb.png)
 ![img mb](cb.png)
