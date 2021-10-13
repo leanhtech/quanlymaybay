@@ -324,7 +324,7 @@ int main(){
 					highlight_box(left2[chiso],top2[chiso],right2[chiso],bottom2[chiso],cn[1],f_ds,1,0);
 					delay(250);
 					pt_ds=chiso+trang*10-10;
-					strcpy(sh_temp,dsmb.data[chiso]->sohieumb);
+					strcpy(sh_temp,dsmb.data[pt_ds]->sohieumb);
 					from_xoa(sh_temp);
 					if(check_mbincb(dscb,sh_temp)==false){
 		    			setbkcolor(14);
